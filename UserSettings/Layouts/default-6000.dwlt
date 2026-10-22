@@ -757,9 +757,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: -1312
-    m_LastClickedInstanceID: -1312
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -883,10 +882,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: -1312
+      m_SelectedIDs: []
       m_LastClickedID:
-        m_Data: -1312
+        m_Data: 0
       m_ExpandedIDs:
       - m_Data: -1312
       m_RenameOverlay:
